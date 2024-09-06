@@ -1,3 +1,4 @@
+![Funny GIF](./1_DluPjzT_eTUFdzHCI7JBZA.gif)
 
 ![image](https://github.com/Smrutiprusty/Smrutiprusty/assets/161937962/32596144-c8fc-438c-b112-843c98b4fa7c)
 
