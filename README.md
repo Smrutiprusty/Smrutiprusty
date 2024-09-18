@@ -9,7 +9,7 @@ Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / 
 
 - 👋 Hi, I’m @Smrutilipi prusty
 - 👀 I’m interested in Devops ans AWS ...
-- 🌱 I’m currently learning shellscripting and python.
+- - 🌱 I’m currently learning shellscripting and python.
 - 💞️ I’m looking to collaborate on Devops related projects.
 - 📫 How to reach me:smrutilipiprusty262@gmail.com
 
